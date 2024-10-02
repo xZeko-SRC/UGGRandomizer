@@ -47,7 +47,7 @@ Note: Submit the seed in the main game only, not in menus, to avoid breaking the
 # <H2> Changelog
 Mod Release!
 
-#<H2> Ideas
+# <H2> Ideas
 Add a toggle option to include or exclude the golden bell.
 
 
