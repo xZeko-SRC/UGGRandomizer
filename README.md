@@ -10,9 +10,9 @@ Download MelonLoader from here.
 Run the installer.
 
 Select your Goose Game folder, typically located at:
-C:\Program Files (x86)\Steam\steamapps\common\Untitled Goose Game
+```C:\Program Files (x86)\Steam\steamapps\common\Untitled Goose Game```
 
-Choose Untitled.exe and click 'Open.'
+Choose ```Untitled.exe``` and click 'Open.'
 MelonLoader will automatically detect the version and architecture of your game.
 
 Click 'Install' and wait for the process to complete.
@@ -20,7 +20,7 @@ Click 'Install' and wait for the process to complete.
 Launch the game once to ensure everything is set up correctly with MelonLoader.
 
 Once the game is closed, place UGGRandomizer.dll in the Mods folder inside the Goose Game directory:
-C:\Program Files (x86)\Steam\steamapps\common\Untitled Goose Game\Mods
+```C:\Program Files (x86)\Steam\steamapps\common\Untitled Goose Game\Mods```
 
 Start the game, and the mod will load automatically.
 
